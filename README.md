@@ -1,7 +1,7 @@
 ### Hello I'm Ares
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AresPerfects&color=red)&nbsp;
-[![GitHub AresPerfects](https://img.shields.io/github/followers/AresPefecets?label=follow&style=social)](https://github.com/AresPerfects)&nbsp;
+[![GitHub AresPerfects](https://img.shields.io/github/followers/AresPerfecets?label=follow&style=social)](https://github.com/AresPerfects)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I like to make everything perfect.
