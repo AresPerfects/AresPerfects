@@ -35,8 +35,10 @@ class ares{
 
 
 # My Github Statistics
-<a href="https://github.com/AresPerfects/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=AresPerfects&show_icons=true&border_radius=10px&title_color=F6FEFF&hide_border=true&bg_color=171a1f&text_color=F6FEFF&icon_color=F6FEFF0cbcustom_title=AresPerfects%27s+Github+Statistics"/></a>
+   <img src="https://github-readme-stats.vercel.app/api?username=AresPerfects&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=AresPerfects&theme=radical" />
 </p>
+
 
 # My Discord Profile
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/551038977386348586?hideDiscrim=true)](https://discord.com/users/551038977386348586)
